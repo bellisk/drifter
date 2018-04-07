@@ -6,6 +6,12 @@ This project try to follows [Semantic Versioning](http://semver.org/) since the 
 
 For migration information, you can always have a look at https://liip-drifter.readthedocs.io/en/latest/migrations.html.
 
+## [unreleased]
+
+### Changed
+
+- Avoid compiling requirements files that are already compiled in the virtualenv role
+
 ## [1.6.0] - 2018-03-27
 
 ### Upgrade instructions
