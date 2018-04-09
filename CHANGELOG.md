@@ -6,6 +6,12 @@ This project try to follows [Semantic Versioning](http://semver.org/) since the 
 
 For migration information, you can always have a look at https://liip-drifter.readthedocs.io/en/latest/migrations.html.
 
+## Unreleased
+
+### Added
+
+- Webpack role: a brand new way of handling front-end assets in your projects, preconfigured!
+
 ## [1.6.0] - 2018-03-27
 
 ### Upgrade instructions

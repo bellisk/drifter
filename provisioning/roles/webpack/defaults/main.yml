@@ -1,0 +1,6 @@
+webpack_directory: "{{ root_directory }}"
+webpack_package_json_path: "{{ webpack_directory }}/package.json"
+webpack_create_config: true
+webpack_browserslist:
+  - Last 2 versions
+  - IE 11
